@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+uploaded.apk
+security_report.json
+analysis.json
+.env
+

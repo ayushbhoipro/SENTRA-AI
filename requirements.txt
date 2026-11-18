@@ -1,0 +1,5 @@
+streamlit
+androguard
+google-genai
+python-dotenv
+
